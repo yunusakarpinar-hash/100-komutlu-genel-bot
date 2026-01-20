@@ -1,0 +1,33 @@
+{
+    "token": "BURAYA_BOT_TOKENINI_YAZ",
+    "prefix": "!",
+    "ownerID": "BURAYA_KENDI_DISCORD_ID_NI_YAZ",
+    "serverSettings": {
+        "ticketCategoryName": "tickets",
+        "welcomeChannelID": null,
+        "leaveChannelID": null,
+        "logChannelID": null
+    },
+    "economy": {
+        "startBalance": 1000,
+        "dailyAmount": 500,
+        "workMinAmount": 100,
+        "workMaxAmount": 300,
+        "crimeMinAmount": 200,
+        "crimeMaxAmount": 500,
+        "robMinBalance": 200,
+        "robTargetMinBalance": 500
+    },
+    "levels": {
+        "enabled": true,
+        "xpPerMessage": 5,
+        "xpRandomBonus": 15,
+        "levelUpMultiplier": 100
+    },
+    "colors": {
+        "primary": "#0099ff",
+        "success": "#00ff00",
+        "error": "#ff0000",
+        "warning": "#ffaa00"
+    }n
+}
